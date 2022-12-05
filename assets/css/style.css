@@ -135,6 +135,7 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+#tagline {
     font-size: 20px;
+    margin-bottom: 20px;
 }
