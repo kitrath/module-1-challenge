@@ -1,20 +1,14 @@
-# module-1-challenge
+# Module 1 Challenge 
 
-## User Story
-**AS** a marketing agency
-I **WANT** a codebase that follows accessibility standards
-**SO THAT** our own site is optimized for search engines
+## Description
+This repository (``kitrath/module-1-challenge``) contains HTML and CSS for the landing page of an imaginary web marketing agency, *Horiseon*.  The files here have been refactored from starter code found in the `Develop` directory of [this repository](https://github.com/coding-boot-camp/urban-octo-telegram).  The user story for this challenge was to transform the markup and styles to better follow accessibility standards while keeping the visuals as close as possible to the original.
 
-## Acceptance Criteria
+**View the result here**: [https://kitrath.github.io/module-1-challenge/](https://kitrath.github.io/module-1-challenge/)
 
-**GIVEN** a webpage meets accessibility standards
-1. **WHEN** I view the sourcecode 
-    **THEN** I find semantic HTML elements.
-2. **WHEN** I view the structure of the HTML elements
-    **THEN** I find that the elements follow a logical structure independent of styling and positioning
-3. **WHEN** I view the image elements
-    **THEN** I find accessible alt attributes
-4. **WHEN** I view the heading attributes
-    **THEN** they fall in sequential order
-5. **WHEN** I view the title element
-    **THEN** I find a concise, descriptive title
+## Takeaways
+This project contributed to my growth as a web developer by forcing me to consider the difference between *structural* and *semantic* HTML. The challenge of maintaining the appearance of the application through the stages of extensive refactoring helped me begin to discover how to research CSS with specificity.  Finally, working with the given acceptance criteria of this project helped me begin to discover possibilities for an organized development workflow with Git and Github.
+
+## Screenshot
+<p align="center">
+    <img alt="screenshot of the Horiseon homepage" src="./screenshot.jpg" height="800px" />
+</p>
